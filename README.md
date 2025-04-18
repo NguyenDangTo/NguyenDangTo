@@ -44,13 +44,6 @@
 
 ---
 
-## 📫 Kết nối với tôi
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nguyen-dang-to-5a9263229/))  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/your-facebook](https://www.facebook.com/to.nguyen.96273))
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Cảm+ơn+vì+đã+ghé+thăm!+🚀" />
 </p>
