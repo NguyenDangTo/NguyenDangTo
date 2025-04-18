@@ -10,12 +10,13 @@
 
 ---
 
-## 🛠️ Kỹ năng
-
-- 💡 **Ngôn ngữ lập trình**: JavaScript, Java, Python  
-- ⚙️ **Frontend**: ReactJS, TailwindCSS  
-- 🔧 **Backend**: Node.js (Express), Flask  
-- 🛠️ **Khác**: Git, RESTful API, MongoDB, PostgreSQL  
+### 🚀 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo)
+![1C:Enterprise](https://img.shields.io/badge/-1C%3AEnterprise-FFD700?style=flat&logo=1C&logoColor=black)
 
 ---
 
