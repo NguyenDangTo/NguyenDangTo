@@ -4,7 +4,9 @@
   🚀 Yêu thích việc học hỏi công nghệ mới và xây dựng sản phẩm thực tế.<br/>
   📍 Hiện tại đang làm việc với ReactJS, NodeJS, và Flask.
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Chào+mừng+bạn+đến+với+GitHub+của+Tôi!" />
+</p>
 ---
 
 ## 🛠️ Kỹ năng
@@ -35,19 +37,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDangTo&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDangTo&layout=compact&theme=tokyonight" alt="langs" height="160"/>
 </p>
 
 ---
 
 ## 📫 Kết nối với tôi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/your-facebook)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nguyen-dang-to-5a9263229/))  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/your-facebook](https://www.facebook.com/to.nguyen.96273))
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Chào+mừng+bạn+đến+với+GitHub+của+Tố!;Cảm+ơn+vì+đã+ghé+thăm!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Cảm+ơn+vì+đã+ghé+thăm!+🚀" />
 </p>
